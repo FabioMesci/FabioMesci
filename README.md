@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0c,100:e2865c&height=180&section=header&text=Fabio%20Mesci&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Frontend%20and%20Web%20Developer%20%C2%B7%20Barcelona&descSize=18&descAlignY=60" width="100%" alt="Fabio Mesci" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0c,100:e2865c&height=180&section=header&text=Fabio%20Mesci&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Barcelona&descSize=18&descAlignY=60" width="100%" alt="Fabio Mesci" />
 
 <div align="center">
 
 <a href="https://fabio-mesci-portfolio.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=E2865C&center=true&vCenter=true&width=620&lines=React+%C2%B7+Next.js+%C2%B7+Angular+%C2%B7+TypeScript;Web+and+mobile+apps+people+actually+use;20%2B+production+sites+delivered;Software+Engineering+student+at+42+Barcelona" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=E2865C&center=true&vCenter=true&width=620&lines=Software+Engineer+%C2%B7+Barcelona;React+%C2%B7+Angular+%C2%B7+TypeScript+%C2%B7+Python;Full-stack+AI+apps+(RAG%2C+LLM+agents);20%2B+production+sites+delivered;Software+Engineering+student+at+42+Barcelona" alt="Typing intro" />
 </a>
 
 <br />
@@ -14,7 +14,7 @@
 
 ![Barcelona](https://img.shields.io/badge/Based_in-Barcelona-334155?style=flat-square)
 ![EU](https://img.shields.io/badge/EU_citizen-authorized_to_work_in_the_EU-334155?style=flat-square)
-![Open to work](https://img.shields.io/badge/Open_to-Frontend_%C2%B7_Web_roles-16a34a?style=flat-square)
+![Open to work](https://img.shields.io/badge/Open_to-Software_Engineer_%C2%B7_Frontend_%C2%B7_Full--Stack-16a34a?style=flat-square)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 > I build web apps and sites that people **actually use**, and make them fast, reliable and good on a phone.
 
-Frontend developer in Barcelona with **2+ years** building web and mobile apps. I built the customer screens and admin panel of a restaurant platform in **Angular and Ionic**, build **React and Next.js** apps (including full-stack ones with Python and FastAPI), and have shipped **20+ production sites**.
+Software Engineer in Barcelona with **2+ years** building web and mobile applications and production websites. I built the customer screens and admin panel of **Befaster**, a restaurant ordering platform, with **Angular, Ionic and TypeScript** in an Agile team. Today I build **React and Next.js** apps, including full-stack AI apps (RAG, LLM agents) with **Python and FastAPI**, live and measured with evals. I've delivered **20+ production sites** with a focus on performance.
 
 Computer Engineer (**Cum Laude**), currently in the Common Core at **42 Barcelona** after passing the Piscine.
 
@@ -126,26 +126,31 @@ Computer Engineer (**Cum Laude**), currently in the Common Core at **42 Barcelon
 ## Experience
 
 **Web Developer** · Websiffy · Remote &nbsp;`Mar 2025 – May 2026`
-- Delivered **20+ production websites and online stores** for fashion, retail, education, food and finance clients.
-- Built WooCommerce and Shopify stores with PayPal, local payment methods and shipping integrations.
-- Improved load times and **Core Web Vitals** with caching, Cloudflare and image optimization; technical SEO with Schema.org.
-- Integrated third-party services (Mailchimp, analytics, reCAPTCHA) and launched an e-learning platform with Tutor LMS.
+- Delivered **20+ production websites and online stores** for clients in fashion, retail, education, food and finance.
+- Built each site **from scratch to client requirements**, owning the full cycle: planning, development, testing and launch.
+- Developed online stores with product catalogs, cart and checkout flows, customer accounts and order management.
+- Integrated third-party APIs and services: payment gateways (PayPal, local methods), shipping, reviews, email and analytics.
+- Optimized performance and **Core Web Vitals** with server caching, Cloudflare CDN and image optimization.
+- Implemented technical SEO (Schema.org structured data, sitemaps, metadata) and form security with reCAPTCHA.
 
-**Front-End Software Developer** · Skyliner, C.A. · Maracaibo, Venezuela (Remote) &nbsp;`Apr 2024 – Mar 2025`
-- Front end of **Befaster**, a restaurant platform for digital menus, orders and payments, in an Agile team of 4–5.
-- Customer screens in **Angular, Ionic and TypeScript**: login, menu, cart, checkout, order tracking and profile.
-- **Admin panels** for menus, promotions, stock and sales across web and mobile, wired to REST APIs.
-- Debugged and refactored code for performance and maintainability, with code reviews on GitHub.
+**Front-End Software Developer** · Skyliner, C.A. (Befaster) · Santiago, Chile (Remote) &nbsp;`Apr 2024 – Mar 2025`
+- Developed the front end of **Befaster**, a restaurant and events platform (menus, orders, payments), in an Agile team of 4–5.
+- Built cross-platform customer screens in **Angular, Ionic and TypeScript**: login, menu, cart, checkout, order tracking and profile.
+- Built the **admin panel** where businesses manage menus, promotions and stock and track sales across web and mobile.
+- Integrated the UI with back-end **REST APIs** for authentication, orders and payments, and contributed to back-end tasks.
+- Debugged and refactored code to improve performance and maintainability; took part in code reviews using Git and GitHub.
 
-**Technical Support & Systems Maintenance** · Salvador Corporativo, C.A. · Maracaibo, Venezuela &nbsp;`Jan 2024 – Apr 2024`
-- Technical support and maintenance, hardware and software setup, and SQL scripts for data sync.
+**Technical Support & Systems Maintenance (Internship)** · Salvador Corporativo, C.A. · Maracaibo, Venezuela &nbsp;`Jan 2024 – Apr 2024`
+- Provided technical support to staff, diagnosing and resolving hardware and software issues.
+- Installed and configured hardware and software on workstations and performed preventive maintenance on systems.
+- Wrote SQL scripts to synchronize data and keep records consistent across the company's databases.
 
 ---
 
 ## Education
 
 **Software Engineering, 42 Common Core** · 42 Barcelona &nbsp;`Sep 2026 – Now`
-- Admitted after passing the Piscine. Project-based learning with peer code reviews in C, Python, algorithms and Unix.
+- Admitted after passing the Piscine (Jul – Aug 2026). Project-based learning and peer code reviews in C, Python and Unix.
 
 **Bachelor's in Computer Engineering** · Universidad Rafael Belloso Chacín &nbsp;`2020 – 2024`
 - Graduated **Cum Laude**, GPA 3.6 / 4.0.
@@ -166,10 +171,10 @@ Computer Engineer (**Cum Laude**), currently in the Common Core at **42 Barcelon
 | --- | --- |
 | **Frontend** | TypeScript, JavaScript, React, Next.js, Angular, Ionic, Astro, Tailwind CSS, responsive design |
 | **Motion** | GSAP, ScrollTrigger, Motion, Lenis |
-| **Back end & data** | Python, FastAPI, REST APIs, Server-Sent Events, SQL / MySQL |
+| **Back end & data** | Python, FastAPI, REST APIs, Server-Sent Events, SQL, MySQL, Java, C |
 | **Performance & SEO** | Core Web Vitals, technical SEO, Schema.org, Cloudflare, caching |
 | **CMS & e-commerce** | WordPress, WooCommerce, Shopify, payment gateways |
-| **Also** | LLM apps: RAG, agents and tool calling |
+| **AI & LLMs** | RAG, hybrid search, embeddings, reranking, LLM agents, tool calling, LLM evaluation |
 
 ---
 
@@ -177,7 +182,7 @@ Computer Engineer (**Cum Laude**), currently in the Common Core at **42 Barcelon
 
 **Spanish** (native) · **English** (intermediate) · **Italian** (basic)
 
-Open to frontend and web roles in Barcelona · hybrid or remote
+Open to Software Engineer, Frontend, Full-Stack and AI developer roles in Barcelona · on-site, hybrid or remote
 
 <a href="https://fabio-mesci-portfolio.vercel.app"><b>See my work →</b></a>
 
