@@ -44,6 +44,22 @@ Computer Engineer (**Cum Laude**), currently in the Common Core at **42 Barcelon
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://dancing-with-the-sars-spain.vercel.app">🛰️ NISEarth: what the radar saw</a></h3>
+      <sub>NASA SPACE APPS CHALLENGE 2026 · TEAM PROJECT · GEOSPATIAL DATA</sub>
+      <p>A 3D globe that shows what <b>NISAR</b>, the new NASA–ISRO radar satellite, saw in <b>11 real disasters of 2026</b> (wildfires, floods, earthquakes, landslides, volcanoes and subsidence) and what it missed. A Python pipeline reads only the area of interest from each 1–2 GB radar file, detects burn scars, floods and lava, measures ground motion with InSAR and validates every number against EFFIS, Copernicus EMS and NASA FIRMS. A <b>risk index</b> per ~500 m cell (hazard × exposure × vulnerability) flags cascades and the highest-risk areas, so civil protection and infrastructure managers know where to act <b>before the next accident</b>. Bilingual, with PDF reports generated in the browser.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat-square&logo=maplibre&logoColor=white" />
+      <img src="https://img.shields.io/badge/globe.gl-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square" />
+      <img src="https://img.shields.io/badge/InSAR-334155?style=flat-square" />
+      <br/><br/>
+      <a href="https://dancing-with-the-sars-spain.vercel.app"><b>Live site →</b></a> &nbsp;·&nbsp; <a href="https://github.com/FabioMesci/nisearth"><b>Repository →</b></a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://ancla-lime.vercel.app">⚓ Ancla</a></h3>
       <sub>APP · NEXT.JS + FASTAPI</sub>
@@ -175,6 +191,7 @@ Computer Engineer (**Cum Laude**), currently in the Common Core at **42 Barcelon
 | **Performance & SEO** | Core Web Vitals, technical SEO, Schema.org, Cloudflare, caching |
 | **CMS & e-commerce** | WordPress, WooCommerce, Shopify, payment gateways |
 | **AI & LLMs** | RAG, hybrid search, embeddings, reranking, LLM agents, tool calling, LLM evaluation |
+| **Geospatial & data** | MapLibre, globe.gl, GeoPandas, rasterio, NumPy, satellite radar (SAR, InSAR) |
 
 ---
 
